@@ -15,7 +15,10 @@
 
 
 ## Start docker 
-1\. add .env to root (see .env_example)
+1\. add .env to root project folder (see .env_example)
+```
+$ cp .env_example .env
+```
 
 2\. build
 ```
