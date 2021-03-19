@@ -1,5 +1,5 @@
 Django==2.2.7
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-api-key==1.4.1
 djangorestframework-jwt==1.11.0
 django_environ==0.4.5
